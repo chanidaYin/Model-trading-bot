@@ -1,0 +1,13 @@
+2021-10-10 18:51, 1005648.69_Crypto_trader, test episodes:1000, net worth:909.1733043821947, orders per episode:10.227, no profit episodes:986, model: Dense, comment: 1-30 Jun 2020 2 days
+2021-10-09 01:14, 1005648.69_Crypto_trader, test episodes:1000, net worth:1046.323234178209, orders per episode:3.0, no profit episodes:0, model: Dense, comment:20-21 Jun 2021 2days
+
+
+2021-10-10 21:23, 728601.58_Crypto_trader, test episodes:1000, net worth:1652.3747884788372, orders per episode:11.816, no profit episodes:157, model: Dense, comment: 20Jun-21July2021 1day
+2021-10-10 21:54, 728601.58_Crypto_trader, test episodes:1000, net worth:906.148004301879, orders per episode:11.251, no profit episodes:994, model: Dense, comment: 1-30Jun2020 1day
+
+2021-10-11 18:27, 728601.58_Crypto_trader, test episodes:1000, net worth:957.0685876630328, orders per episode:17.689, no profit episodes:892, model: Dense, comment: 1-31July2019 1day
+2021-10-12 21:07, 728601.58_Crypto_trader, test episodes:1000, net worth:1022.749003621572, orders per episode:164.776, no profit episodes:596, model: Dense, comment: 1-30Jun2020 30day
+2021-10-12 21:36, 728601.58_Crypto_trader, test episodes:1000, net worth:1172.7203946275633, orders per episode:8.938, no profit episodes:0, model: Dense, comment: 20-21June 30day
+
+2021-10-12 21:59, 728601.58_Crypto_trader, test episodes:1000, net worth:1872.7203946275633, orders per episode:8.938, no profit episodes:0, model: Dense, comment: 20-21June 30day
+
